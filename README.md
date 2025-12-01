@@ -167,11 +167,6 @@ I focus on:
 
 </div>
 
-## 🔹 Opção B — Metrics (funciona sempre)
-<div align="center">
-  <img src="https://metrics.lecoq.io/ellyangonzalezlopes?template=classic&config.timezone=America/Sao_Paulo" width="80%"/>
-</div>
-
 ---
 
 # 👀 Profile Views
@@ -182,11 +177,11 @@ I focus on:
 ---
 
 # 📫 Contact
-📧 **Email:** ellyan.gonzalez.lopes@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ellyangonzalez/  
+📧 **Email:** ellyang.lopes@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ellyanlopes/  
 
 <p align="left">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://www.linkedin.com/in/ellyangonzalez/" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://www.linkedin.com/in/ellyanlopes/" />
 </p>
 
 <p align="center">✨ Always learning. Always improving. Always building. ✨</p>
