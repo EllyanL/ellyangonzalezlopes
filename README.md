@@ -135,17 +135,12 @@ I focus on:
 
 # 📊 GitHub Stats
 
-### 🔹 Stats oficiais (pode demorar para carregar se o perfil for novo)
+### 🔹 Stats oficiais
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EllyanL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllyanL&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-### 🔹 Metrics (sempre funciona)
-<div align="center">
-  <img src="https://metrics.lecoq.io/EllyanL?template=classic&config.timezone=America/Sao_Paulo" width="82%"/>
 </div>
 
 ---
